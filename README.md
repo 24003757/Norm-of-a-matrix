@@ -20,10 +20,11 @@ ans = np.linalg.norm(mat,1)
 Norm_of_matrix = "{:.2f}".format(ans)
 print(Norm_of_matrix)
 
+
+
+
 # 2-Norm of a Matrix
-
 import numpy as np
-
 mat = np.array(eval(input()))
 ans = np.linalg.norm(mat,2)
 Norm_of_matrix="{:.2f}".format(ans)
@@ -47,6 +48,10 @@ print(Norm_of_matrix)
 
 
 <img width="1065" height="985" alt="Screenshot 2025-09-18 090458" src="https://github.com/user-attachments/assets/a8beee03-fb7a-4eef-9fa1-3e6a626e2f18" />
+
+
+
+
 
 
 ### Infinity Norm of a Matrix
