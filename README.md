@@ -37,11 +37,19 @@ print(Norm_of_matrix)
 ### 1-Norm of a Matrix
 <img width="1215" height="983" alt="Screenshot 2025-09-18 090447" src="https://github.com/user-attachments/assets/a85ce54a-71c9-4963-a3ff-d8ad2ca4139c" />
 
+
+
+
 .
 ### 2-Norm of a Matrix
 <img width="1065" height="985" alt="Screenshot 2025-09-18 090458" src="https://github.com/user-attachments/assets/a8beee03-fb7a-4eef-9fa1-3e6a626e2f18" />
 
 
+
+
+
+
+.
 ### Infinity Norm of a Matrix
 <img width="1099" height="959" alt="Screenshot 2025-09-18 090505" src="https://github.com/user-attachments/assets/987f7324-927e-4222-82d8-8bd349bedfb5" />
 ## Result
