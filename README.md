@@ -40,7 +40,10 @@ print(Norm_of_matrix)
 
 
 
-.
+
+
+
+
 ### 2-Norm of a Matrix
 <img width="1065" height="985" alt="Screenshot 2025-09-18 090458" src="https://github.com/user-attachments/assets/a8beee03-fb7a-4eef-9fa1-3e6a626e2f18" />
 
@@ -49,8 +52,12 @@ print(Norm_of_matrix)
 
 
 
-.
+
+
+
 ### Infinity Norm of a Matrix
+
+
 <img width="1099" height="959" alt="Screenshot 2025-09-18 090505" src="https://github.com/user-attachments/assets/987f7324-927e-4222-82d8-8bd349bedfb5" />
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
